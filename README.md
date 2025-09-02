@@ -2,7 +2,8 @@
 Documentation / Cheat Sheets from HackTheBox Academy.
 
 ## Windows
-- Windows Fundamentals
-- Introduction To Windows Command Line 
+- [Windows Fundamentals](https://github.com/404Future/HackTheBox/blob/main/Windows_Fundamentals_Module_Cheat_Sheet.pdf)
+- [Introduction To Windows Command Line](https://github.com/404Future/HackTheBox/blob/main/Introduction_To_Windows_Command_Line_Module_Cheat_Sheet.pdf) 
 
 ## Linux
+- [Linux Fundamentals](https://github.com/404Future/HackTheBox/blob/main/Linux_Fundamentals_Module_Cheat_Sheet.pdf)
