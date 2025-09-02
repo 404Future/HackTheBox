@@ -1,2 +1,8 @@
 # HackTheBox
-Documentation from HackTheBox academy.
+Documentation / Cheat Sheets from HackTheBox Academy.
+
+## Windows
+- Windows Fundamentals
+- Introduction To Windows Command Line 
+
+## Linux
