@@ -7,3 +7,6 @@ Documentation / Cheat Sheets from HackTheBox Academy.
 
 ## Linux
 - [Linux Fundamentals](https://github.com/404Future/HackTheBox/blob/main/Linux_Fundamentals_Module_Cheat_Sheet.pdf)
+
+## Web
+- [Web Requests](https://github.com/404Future/HackTheBox/blob/main/Web_Requests_Module_Cheat_Sheet.pdf)
