@@ -4,8 +4,8 @@ Documentation / Cheat Sheets from HackTheBox Academy.
 *All files are the exclusive property of Hack The Box. Hack The Box retains all rights, title, and interest in and to these materials, including all associated intellectual property rights.*
 
 ## Windows
-- [Windows Fundamentals](https://github.com/404Future/HackTheBox/blob/main/Windows_Fundamentals_Module_Cheat_Sheet.pdf)
-- [Introduction To Windows Command Line](https://github.com/404Future/HackTheBox/blob/main/Introduction_To_Windows_Command_Line_Module_Cheat_Sheet.pdf) 
+- [Windows Fundamentals](https://github.com/404Future/HackTheBox/blob/main/Windows/Windows_Fundamentals_Module_Cheat_Sheet.pdf)
+- [Introduction To Windows Command Line](https://github.com/404Future/HackTheBox/blob/main/Windows/Introduction_To_Windows_Command_Line_Module_Cheat_Sheet.pdf)
 
 ## Linux
 - [Linux Fundamentals](https://github.com/404Future/HackTheBox/blob/main/Linux_Fundamentals_Module_Cheat_Sheet.pdf)
