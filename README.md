@@ -18,3 +18,4 @@ Documentation / Cheat Sheets from HackTheBox Academy.
 - [Cross-Site Scripting (XSS)](https://github.com/404Future/HackTheBox/blob/main/Web/Cross_Site_Scripting_Xss_Module_Cheat_Sheet.pdf)
 - [SQL Injection Fundamentals](https://github.com/404Future/HackTheBox/blob/main/Web/Sql_Injection_Fundamentals_Module_Cheat_Sheet.pdf)
 - [SQLMap Essentials](https://github.com/404Future/HackTheBox/blob/main/Web/Sqlmap_Essentials_Module_Cheat_Sheet.pdf)
+- [Command Injection](https://github.com/404Future/HackTheBox/blob/main/Web/Command_Injections_Module_Cheat_Sheet.pdf)
