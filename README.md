@@ -21,3 +21,4 @@ Documentation / Cheat Sheets from HackTheBox Academy.
 - [Command Injection](https://github.com/404Future/HackTheBox/blob/main/Web/Command_Injections_Module_Cheat_Sheet.pdf)
 - [File Upload Attacks](https://github.com/404Future/HackTheBox/blob/main/Web/File_Upload_Attacks_Module_Cheat_Sheet.pdf)
 - [Server-Side Attacks](https://github.com/404Future/HackTheBox/blob/main/Web/Server_Side_Attacks_Module_Cheat_Sheet.pdf)
+- [Login Brute Forcing](https://github.com/404Future/HackTheBox/blob/main/Web/Login_Brute_Forcing_Module_Cheat_Sheet.pdf)
